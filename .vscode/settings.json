@@ -9,5 +9,6 @@
     "source.fixAll.eslint": true,
     "source.organizeImports": true
   },
-  "eslint.alwaysShowStatus": true
+  "eslint.alwaysShowStatus": true,
+  "cSpell.words": ["mashrafee", "sakib", "tamim"]
 }
